@@ -13,7 +13,9 @@ altium-draftsman-templates -- шаблоны по гост для редакто
 
 altium-pcb-templates -- несколько шаблонов для редактора PCB:
 
-MechLayersScheme.stackup -- схема механических слоев
+altium-mech-layer-scheme.stackup -- схема механических слоев (M1/M2 - Assembly, M3/M4 - 3D Body, M15/M16 - Courtyard, M5 - Board)
 
-dee_PCBColors.PCBSysColors -- более мягкая, чем базовая цветовая схема
+dee-PCBColors.PCBSysColors -- более мягкая, чем базовая цветовая схема
+
+dee-sample-RFBoard_rules.RUL -- набор базовых правил DRC
 
