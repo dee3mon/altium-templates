@@ -1,0 +1,14 @@
+<?xml version="1.0"?>
+<ArrayOfParameter xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <Parameter Key="Value" Separator="" />
+  <Parameter Key="Tolerance" Separator=" " />
+  <Parameter Key="VDC" Separator=" " />
+  <Parameter Key="Dielectric" Separator=" " />
+  <Parameter Key="DCV" Separator=" " />
+  <Parameter Key="Power" Separator=" " />
+  <Parameter Key="DCR" Separator=" " />
+  <Parameter Key="IRMS" Separator=" " />
+  <Parameter Key="Package" Separator=" " />
+  <Parameter Key="PartNumber" Separator=" " />
+  <Parameter Key="Manufacturer" Separator="" />
+</ArrayOfParameter>
