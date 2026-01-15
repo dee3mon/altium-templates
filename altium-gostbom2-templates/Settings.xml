@@ -1,0 +1,84 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<root>
+<Properties>
+	<item name="Проект">
+		<value value="Тема1"/>
+		<value value="Тема2"/>
+		<value value="Тема3"/>
+	</item>
+	<item name="п_Разраб_Р">
+		<value value="Разраб_сх1"/>
+		<value value="Разраб_сх2"/>
+		<value value="Разраб_сх3"/>
+	</item>
+	<item name="п_Разраб">
+		<value value="Разраб_топ1"/>
+		<value value="Разраб_топ2"/>
+		<value value="Разраб_топ3"/>
+	</item>
+	<item name="п_Пров">
+		<value value="Пров_топ1"/>
+		<value value="Пров_топ2"/>
+		<value value="Пров_топ3"/>
+	</item>
+	<item name="п_Пров_Р">
+		<value value="Пров_сх1"/>
+		<value value="Пров_сх2"/>
+		<value value="Пров_сх3"/>
+	</item>
+	<item name="п_Доп_графа">
+		<value value="Рук.пр_К1"/>
+		<value value="Рук.пр_К2"/>
+		<value value="Рук.пр_К3"/>
+	</item>
+	<item name="п_Доп_графа_Р">
+		<value value="Рук.пр_1Р"/>
+		<value value="Рук.пр_2Р"/>
+		<value value="Рук.пр_3Р"/>
+	</item>
+	<item name="Характер_работы">
+		<value value="Рук.проекта"/>
+		<value value="Зав.лаб."/>
+	</item>
+	<item name="п_Т_Контр">
+		<value value="Т.Контр_К1"/>
+		<value value="Т.Контр_К2"/>
+		<value value="Т.Контр_К3"/>
+	</item>
+	<item name="п_Н_контр">
+		<value value="Н.Контр_К1"/>
+		<value value="Н.Контр_К2"/>
+		<value value="Н.Контр_К3"/>
+	</item>
+	<item name="п_Н_контр_Р">
+		<value value="Н.Контр_1Р"/>
+		<value value="Н.Контр_2Р"/>
+		<value value="Н.Контр_3Р"/>
+	</item>
+	<item name="п_Утв_Р">
+		<value value="Утв_1Р"/>
+		<value value="Утв_2Р"/>
+		<value value="Утв_3Р"/>
+	</item>
+	<item name="п_Утв">
+		<value value="Утв_К1"/>
+		<value value="Утв_К2"/>
+		<value value="Утв_К3"/>
+	</item>
+	<item name="Изм_сх">
+		<value value="Изм.сх.1"/>
+		<value value="Изм.сх.2"/>
+		<value value="Изм.сх.3"/>
+	</item>
+	<item name="Изм_пер">
+		<value value="Изм.пер.1"/>
+		<value value="Изм.пер.2"/>
+		<value value="Изм.пер.3"/>
+	</item>
+	<item name="Изм_спец">
+		<value value="Изм.спец.1"/>
+		<value value="Изм.спец.2"/>
+		<value value="Изм.спец.3"/>
+	</item>
+</Properties>
+</root>
